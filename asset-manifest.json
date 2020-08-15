@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MariamAkhtar/test2/static/css/main.c9f09362.chunk.css",
-    "main.js": "/MariamAkhtar/test2/static/js/main.ba0a2990.chunk.js",
-    "main.js.map": "/MariamAkhtar/test2/static/js/main.ba0a2990.chunk.js.map",
-    "runtime-main.js": "/MariamAkhtar/test2/static/js/runtime-main.641850b6.js",
-    "runtime-main.js.map": "/MariamAkhtar/test2/static/js/runtime-main.641850b6.js.map",
-    "static/css/2.11829350.chunk.css": "/MariamAkhtar/test2/static/css/2.11829350.chunk.css",
-    "static/js/2.2e0eb141.chunk.js": "/MariamAkhtar/test2/static/js/2.2e0eb141.chunk.js",
-    "static/js/2.2e0eb141.chunk.js.map": "/MariamAkhtar/test2/static/js/2.2e0eb141.chunk.js.map",
-    "index.html": "/MariamAkhtar/test2/index.html",
-    "precache-manifest.708eed5e627e3878dacd9eb565fd73f4.js": "/MariamAkhtar/test2/precache-manifest.708eed5e627e3878dacd9eb565fd73f4.js",
-    "service-worker.js": "/MariamAkhtar/test2/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/MariamAkhtar/test2/static/css/2.11829350.chunk.css.map",
-    "static/css/main.c9f09362.chunk.css.map": "/MariamAkhtar/test2/static/css/main.c9f09362.chunk.css.map",
-    "static/js/2.2e0eb141.chunk.js.LICENSE.txt": "/MariamAkhtar/test2/static/js/2.2e0eb141.chunk.js.LICENSE.txt"
+    "main.css": "/MariamAkhtar/country-search/static/css/main.c9f09362.chunk.css",
+    "main.js": "/MariamAkhtar/country-search/static/js/main.e5d1b9cc.chunk.js",
+    "main.js.map": "/MariamAkhtar/country-search/static/js/main.e5d1b9cc.chunk.js.map",
+    "runtime-main.js": "/MariamAkhtar/country-search/static/js/runtime-main.7f7b0c41.js",
+    "runtime-main.js.map": "/MariamAkhtar/country-search/static/js/runtime-main.7f7b0c41.js.map",
+    "static/css/2.11829350.chunk.css": "/MariamAkhtar/country-search/static/css/2.11829350.chunk.css",
+    "static/js/2.2e0eb141.chunk.js": "/MariamAkhtar/country-search/static/js/2.2e0eb141.chunk.js",
+    "static/js/2.2e0eb141.chunk.js.map": "/MariamAkhtar/country-search/static/js/2.2e0eb141.chunk.js.map",
+    "index.html": "/MariamAkhtar/country-search/index.html",
+    "precache-manifest.07769d4ce0462d28f50ea7a5eb141b12.js": "/MariamAkhtar/country-search/precache-manifest.07769d4ce0462d28f50ea7a5eb141b12.js",
+    "service-worker.js": "/MariamAkhtar/country-search/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/MariamAkhtar/country-search/static/css/2.11829350.chunk.css.map",
+    "static/css/main.c9f09362.chunk.css.map": "/MariamAkhtar/country-search/static/css/main.c9f09362.chunk.css.map",
+    "static/js/2.2e0eb141.chunk.js.LICENSE.txt": "/MariamAkhtar/country-search/static/js/2.2e0eb141.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.641850b6.js",
+    "static/js/runtime-main.7f7b0c41.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.2e0eb141.chunk.js",
     "static/css/main.c9f09362.chunk.css",
-    "static/js/main.ba0a2990.chunk.js"
+    "static/js/main.e5d1b9cc.chunk.js"
   ]
 }
